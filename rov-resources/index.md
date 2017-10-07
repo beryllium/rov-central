@@ -1,5 +1,5 @@
 ---
-layout: plain
+layout: resources
 title: ROV Resources and Links
 ---
 
